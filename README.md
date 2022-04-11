@@ -6,7 +6,7 @@ Design an API for a vending machine, allowing users with a “seller” role to 
 ## Installation
 
 ```bash
-$ git clone https://github.com/iamraphson/vendor-system-api.git
+$ git clone https://github.com/DevMagdi/Machine-RestFull-API
 $ cd vendor-system-api
 $ cp .env.exmaple .env #don't forget to update the DB credential
 $ npm install
@@ -43,3 +43,4 @@ Navigate to  ```http://localhost:3000/docs``` on your computer to view the opena
 ## License
 
 Vendor Machine API  is MIT licensed.
+# Machine-RestFull-API
